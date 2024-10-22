@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Now-Bold
+font link: https://hanken.co/product/now/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: Adrien Coquet
+icon designer link: /coquet_adrien
+        
+{"bg":"transparent","icon-gradient-0":"#0076DD","icon-gradient-1":"#00CDE9","font":"#000000","slogan":"#141414"}
+      

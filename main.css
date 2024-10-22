@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e8e8e8;
+    height: 10000px;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #e8e8e8;
+    margin: 0;
+    padding: 0;
+}
+
+#yuri-logo {
+    max-width: 200px;
+}
+
+.fs-24 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#icone-programador {
+    max-width: 20%;
+}
+
+.title{
+    font-weight: 600;
+}
+
+.subtitle {
+    font-weight: 300;
+}
+
+.sessao-apresentacao {
+    height: 100vh;
+}
+
+.sessao-sobre-mim {
+    position: relative;
+    background-color: #00CCC1;
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title-sobre-mim {
+    font-weight: 600;
+    position: absolute;
+    left: 50%;
+    top: 8%;
+
+}
+
+.foto-yuri {
+    max-width: 400px;
+    border-radius: 50px;
+}
+
+.texto-sobre-mim {
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.yuri-cavalcante-paiva {
+    font-weight: 500;
+}
+
+.img-icon {
+    max-width: 24px;
+}
+
+.icons {
+    margin-top: 5%;
+    list-style: none;
+    padding: 0;
+}
+
+.element-list {
+    margin-right: 6%;
+}
+
+.sessao-projetos {
+    margin-top: 4%;
+    height: 50vh;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo-projetos {
+    font-weight: 600;
+    margin: 10rem 0 1% 0;
+}
+
+.subtitulo-projetos {
+    font-weight: 300;
+    margin-bottom: 3%;
+}
+
+
+.carousel-control-prev-icon {
+    background-image: url(./img/caret-left-fill.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(./img/caret-right-fill.svg);
+}
+
+.carousel-control-next {
+    right: -10%;
+}
+
+.carousel-control-prev {
+    left: -10.5%;
+}
+
+
+
+
